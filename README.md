@@ -13,7 +13,7 @@ This is a **demo educational portal** built with **Flask**, featuring:
 ## Admin Account
 
 - Username: `admin`  
-- Password: `admin123`
+- Password: `xxxxxx`
 
 ## Installation (Local)
 
